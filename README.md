@@ -1,8 +1,8 @@
-# Project Images Repository
+# Project Images Repository:-
 
 Welcome to the Project Images Repository! This repository contains a collection of images used in various projects.
 
-## Usage
+## Usage:-
 
 The images stored in this repository are intended for use in project documentation, presentations, web content, and other creative endeavors. 
 
